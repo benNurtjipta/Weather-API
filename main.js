@@ -1,5 +1,5 @@
 const form = document.querySelector("form");
-const weatherApiKey = "5e0d33ef8f09b704d691c9099e611f09";
+const weatherApiKey = "xxx"
 const results = document.querySelector("#weatherResults");
 const myLocBtn = document.querySelector("#location");
 
